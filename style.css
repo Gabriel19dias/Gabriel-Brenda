@@ -1,0 +1,309 @@
+:root {
+  --bg: #FFFDF9;
+  --ink: #4A3B35;
+  --accent: #F4A6B1;
+  --accent-dark: #E07E8D;
+  --muted: #8B6B61;
+  --card: #FFFFFF;
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* === Banner === */
+.banner {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+
+.banner-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(70%);
+}
+
+.banner-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+  font-family: 'Playfair Display', serif;
+}
+
+.banner-text h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+.banner-text p {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+/* === Hero Section === */
+.hero {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 60px 20px;
+  background:
+    radial-gradient(1200px 400px at 50% -10%, rgba(244, 166, 177, 0.25), transparent 60%),
+    radial-gradient(900px 300px at 20% 0%, rgba(139, 107, 97, 0.08), transparent 40%);
+}
+
+.names {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  font-size: clamp(36px, 7vw, 64px);
+}
+
+.amp {
+  color: var(--accent);
+}
+
+.subtitle {
+  opacity: 0.85;
+  margin-top: 10px;
+}
+
+.date {
+  margin-top: 6px;
+  opacity: 0.7;
+}
+
+.cta {
+  display: inline-block;
+  margin-top: 26px;
+  padding: 12px 22px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: white;
+  box-shadow: var(--shadow);
+  transition: 0.2s;
+  font-weight: 600;
+}
+
+.cta:hover {
+  background: var(--accent-dark);
+}
+
+/* === Sections === */
+section {
+  padding: 56px 0;
+}
+
+.section-title {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(24px, 4vw, 36px);
+  margin: 0 0 16px;
+}
+
+.lead {
+  opacity: 0.9;
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* === Mensagem dos Noivos === */
+.mensagem-noivos h2.section-title,
+.mensagem-noivos p.lead {
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* === Filtros da Loja === */
+.filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.filters input,
+.filters select {
+  padding: 8px;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+/* === Grid de Presentes === */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.card-body {
+  padding: 16px;
+}
+
+.price {
+  color: var(--muted);
+  margin: 8px 0 12px;
+  font-weight: 600;
+}
+
+/* === Botão === */
+.btn {
+  display: inline-block;
+  background: var(--accent);
+  color: white;
+  padding: 10px 16px;
+  border-radius: 12px;
+  font-weight: 600;
+  transition: background 0.2s;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: var(--accent-dark);
+}
+
+/* === Footer === */
+footer {
+  padding: 40px 20px;
+  text-align: center;
+  opacity: 0.7;
+  font-size: 0.95rem;
+}
+
+/* === Modal === */
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  z-index: 50;
+}
+
+.modal {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  width: min(560px, 100%);
+  padding: 20px;
+}
+
+.modal.show {
+  display: flex;
+}
+
+.row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.input {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #e7e1dc;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.hint {
+  font-size: 12px;
+  opacity: 0.7;
+  margin-top: 4px;
+}
+
+.qr-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+  border: 1px dashed #e7e1dc;
+  border-radius: 12px;
+  min-height: 220px;
+}
+
+.copy {
+  cursor: pointer;
+  border: 1px solid #e7e1dc;
+  border-radius: 10px;
+  padding: 8px 10px;
+  background: #faf7f4;
+  font-weight: 600;
+  transition: 0.15s;
+}
+
+.copy:hover {
+  background: #f5efeb;
+}
+
+.pill {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: #faf7f4;
+  border: 1px solid #e7e1dc;
+}
+
+.right {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+/* === Utilitários opcionais === */
+.visually-hidden {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}

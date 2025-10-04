@@ -1,0 +1,242 @@
+[
+  {
+    "Categoria": "sofá",
+    "Nome": "Poltrona Papai E Mamãe Reclinável P/ Amamentação E Recepção",
+    "Preço": "R$ 939",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "sofá",
+    "Nome": "Poltrona Cadeira Lóttus Soft Reclinável P/ Sala De Estar",
+    "Preço": "R$ 829",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_974965-MLB88028883484_072025-E-poltrona-cadeira-lottus-soft-reclinavel-p-sala-de-estar.webp"
+  },
+  {
+    "Categoria": "sofá",
+    "Nome": "Poltrona Decorativa Para Amamentação E Puff Descanso P/ Pés",
+    "Preço": "R$ 599",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_720955-MLB93397655254_092025-E-poltrona-decorativa-para-amamentaco-e-puff-descanso-p-pes.webp"
+  },
+  {
+    "Categoria": "sofá",
+    "Nome": "Poltrona Puff Retro Sofá Decorativo Para Sala De Estar E Lar",
+    "Preço": "R$ 749",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "sofá",
+    "Nome": "Puff Orgânico Sofá 2 Lugares Feijão Thor 145cm Bouclê Várias",
+    "Preço": "R$ 1.696",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "mesa de jantar",
+    "Nome": "Mesa 120x70 Dobrável Madeira Maciça Bar Restaurante",
+    "Preço": "R$ 382",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "mesa de jantar",
+    "Nome": "Conjunto Mesa Vintage 120x90 + 4 Cadeiras Gruvyer Modernas",
+    "Preço": "R$ 749",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_705867-MLB93856746661_092025-E-conjunto-mesa-vintage-120x90-4-cadeiras-gruvyer-modernas.webp"
+  },
+  {
+    "Categoria": "mesa de jantar",
+    "Nome": "Mesa Para Sala De Jantar Com 4 Cadeiras Tolix",
+    "Preço": "R$ 973",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_872000-MLB93535223030_102025-E-mesa-para-sala-de-jantar-com-4-cadeiras-tolix.webp"
+  },
+  {
+    "Categoria": "mesa de jantar",
+    "Nome": "Mesa Preta Retangular 120x90 Jantar Fácil De Montar Preto",
+    "Preço": "R$ 279",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "mesa de jantar",
+    "Nome": "Jogo Mesa Retangular 120cm 4 Cadeiras Polipropileno Pinus",
+    "Preço": "R$ 1.100",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "cama box casal",
+    "Nome": "Cama Box Casal Bipartido + Colchão Ortopédico Prime D45",
+    "Preço": "R$ 1.639",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "cama box casal",
+    "Nome": "Cama Box Casal Ortopédica Conjugada -  Tampo Branco",
+    "Preço": "R$ 395",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_663870-MLB88500534219_072025-E-cama-box-casal-ortopedica-conjugada-tampo-branco.webp"
+  },
+  {
+    "Categoria": "cama box casal",
+    "Nome": "Cama Box Colchão Casal Molas Ensacadas City Pillow Top 138x188x61cm Branco e Bege Hellen",
+    "Preço": "R$ 1.110",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_951249-MLU76698174060_062024-E.webp"
+  },
+  {
+    "Categoria": "cama box casal",
+    "Nome": "Cama Box Colchão Casal Molas Ensacadas Real 138x188x65cm Branco e Bege Inducol",
+    "Preço": "R$ 1.110",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "cama box casal",
+    "Nome": "Cama Box Casal Conjugado Ortopédico Sonos 138x188x53 Cor Preto",
+    "Preço": "R$ 332",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "guarda roupa",
+    "Nome": "Guarda Roupa Solteiro Kioto 3 Portas 2 Gavetas",
+    "Preço": "R$ 599",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "guarda roupa",
+    "Nome": "Guarda Roupa Casal Valencia 6 Portas 6 Gavetas Com Espelho",
+    "Preço": "R$ 1.689",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_801895-MLB80866939716_122024-E-guarda-roupa-casal-valencia-6-portas-6-gavetas-com-espelho.webp"
+  },
+  {
+    "Categoria": "guarda roupa",
+    "Nome": "Guarda-roupa Roupeiro 200x180cm Casal 6 Portas 2 Gavetas Madeirado E Off White - Espaço Amplo E Estilo Moderno",
+    "Preço": "R$ 999",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_773805-MLA82427383627_022025-E.webp"
+  },
+  {
+    "Categoria": "guarda roupa",
+    "Nome": "Guarda-roupa Casal 8 Portas Bbp Venus Madesa Cp Branco",
+    "Preço": "R$ 1.994",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "guarda roupa",
+    "Nome": "Guarda-roupa Casal 6 Portas C/ Espelho Rpp Venus Madesa Cp Preto",
+    "Preço": "R$ 1.947",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "poltrona",
+    "Nome": "Kit 2 Poltrona Decorativa Opala Sala De Estar Recepção Suede",
+    "Preço": "R$ 599",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "poltrona",
+    "Nome": "Poltrona Reclinavel Do Papai Para Sala King Tecido Veludo",
+    "Preço": "R$ 999",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_752251-MLB83305655093_032025-E-poltrona-reclinavel-do-papai-para-sala-king-tecido-veludo.webp"
+  },
+  {
+    "Categoria": "poltrona",
+    "Nome": "Poltrona Decorativa Para Amamentação E Puff Descanso P/ Pés",
+    "Preço": "R$ 599",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_720955-MLB93397655254_092025-E-poltrona-decorativa-para-amamentaco-e-puff-descanso-p-pes.webp"
+  },
+  {
+    "Categoria": "poltrona",
+    "Nome": "Poltrona Decorativa Uxuá Veludo Verde Luxo Frete Grátis",
+    "Preço": "R$ 1.123",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_725026-MLB93073228028_092025-E-poltrona-decorativa-uxua-veludo-verde-luxo-frete-gratis.webp"
+  },
+  {
+    "Categoria": "poltrona",
+    "Nome": "Poltrona Serena Elegância E Conforto.",
+    "Preço": "R$ 627",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "estante",
+    "Nome": "Estante De Aco Armario Escritorio 60 Cm 6 Bandejas Reforçada",
+    "Preço": "R$ 299",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "estante",
+    "Nome": "Porta Livro Infantil Montessori Madeira",
+    "Preço": "R$ 299",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_898104-MLB84860654141_052025-E-porta-livro-infantil-montessori-madeira.webp"
+  },
+  {
+    "Categoria": "estante",
+    "Nome": "Estante Plastica Modular 5 Prateleiras Multiuso Organizadora Preta - Marianopole",
+    "Preço": "R$ 78",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_780632-MLA93657442344_102025-E.webp"
+  },
+  {
+    "Categoria": "estante",
+    "Nome": "Rack Madesa Dubai Para Tv Quarto Até 65 Polegadas Com Pés Rbr Cor Rustic/Branco/Rustic 60246E5ZPP",
+    "Preço": "R$ 423",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "estante",
+    "Nome": "3 Prateleiras 25x10 Mdf Preto Dormitorio Suporte Cadeirinha",
+    "Preço": "R$ 33",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "rack para tv",
+    "Nome": "Rack Estante Tv Multiuso Cantinho Do Café Aparador Compacto",
+    "Preço": "R$ 199",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "rack para tv",
+    "Nome": "Rack Para Sala De Estar Tv 55 Pol Bancada 2 Portas Ripado",
+    "Preço": "R$ 659",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_883575-MLB92384357598_092025-E-rack-para-sala-de-estar-tv-55-pol-bancada-2-portas-ripado.webp"
+  },
+  {
+    "Categoria": "rack para tv",
+    "Nome": "Rack Madesa Dubai Para Tv Quarto Até 65 Polegadas Com Pés Rbr Cor Rustic/Branco/Rustic 60246E5ZPP",
+    "Preço": "R$ 423",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668015-MLU72700355353_112023-E.webp"
+  },
+  {
+    "Categoria": "rack para tv",
+    "Nome": "Rack Kappesberg 3 Portas Canela 136cm",
+    "Preço": "R$ 429",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "rack para tv",
+    "Nome": "Rack Madesa Dubai Para Tv Até 65 Polegadas Com Pés - Pr Cor Preto/rustic",
+    "Preço": "R$ 423",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "cadeiras",
+    "Nome": "4 Cadeiras De Jantar Empilháveis Gruvyer Alto Brilho Moderno",
+    "Preço": "R$ 799",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "cadeiras",
+    "Nome": "Cadeira De Escritório Ergonômica Preta Com Suporte De Lombar",
+    "Preço": "R$ 589",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_886723-MLB92363177632_092025-E-cadeira-de-escritorio-ergonmica-preta-com-suporte-de-lombar.webp"
+  },
+  {
+    "Categoria": "cadeiras",
+    "Nome": "Kit 4 Cadeiras Jantar Ciplafe Luna Tubo Bronze Assento Bege Geométrico",
+    "Preço": "R$ 509",
+    "Imagem": "https://http2.mlstatic.com/D_Q_NP_2X_815670-MLA80959592080_122024-E.webp"
+  },
+  {
+    "Categoria": "cadeiras",
+    "Nome": "Kit 6 Cadeira De Plástico Bela Vista Preta - Com Braço - Mor Cor Preto Lisa",
+    "Preço": "R$ 589",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Categoria": "cadeiras",
+    "Nome": "Cadeira Escritório Ergonômica Genebra B500 Luvinco Cor Preto Com Suporte Lombar Estofado Mesh",
+    "Preço": "R$ 906",
+    "Imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  }
+]

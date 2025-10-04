@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gabriel & Brenda — Nosso Casamento</title>
+  
+  <!-- Fontes -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+  
+  <!-- Estilos -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- Banner -->
+  <section class="banner">
+    <img src="images/foto-casal.jpg" alt="Foto do casal Gabriel e Brenda" class="banner-img" loading="lazy">
+    <div class="banner-text">
+      <h1>Gabriel & Brenda</h1>
+      <p>Celebrando o amor 💍</p>
+    </div>
+  </section>
+
+  <!-- Hero -->
+  <header class="hero" role="banner">
+    <div class="container">
+      <div class="names">Gabriel <span class="amp">&</span> Brenda</div>
+      <div class="subtitle">Convidam você para celebrar o amor 💍</div>
+      <div class="date">
+        Data: <span id="wedding-date">DD/MM/AAAA</span> • 
+        Local: <span id="wedding-place">A definir</span>
+      </div>
+      <a href="#loja" class="cta">Ver lista de presentes</a>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- Mensagem dos Noivos -->
+    <section class="mensagem-noivos">
+      <h2 class="section-title">Mensagem dos Noivos</h2>
+      <p class="lead">
+        Sua presença é o nosso melhor presente. Para quem desejar nos presentear, criamos uma lojinha com cotas simbólicas que ajudam a tornar nossa lua de mel ainda mais especial. Obrigado pelo carinho!
+      </p>
+    </section>
+
+    <!-- Lojinha de Presentes -->
+    <section id="loja" aria-labelledby="loja-title">
+      <h2 class="section-title" id="loja-title">Lojinha de Presentes</h2>
+
+      <!-- Filtros e pesquisa -->
+      <form class="filters" role="search" aria-label="Filtrar presentes">
+        <label for="search-input" class="visually-hidden">Buscar presente</label>
+        <input type="text" id="search-input" placeholder="Buscar presente..." name="search">
+
+        <label for="category-filter" class="visually-hidden">Categoria</label>
+        <select id="category-filter" name="category">
+          <option value="all">Todas as categorias</option>
+          <option value="sofá">Sofá</option>
+          <option value="mesa de jantar">Mesa de Jantar</option>
+          <option value="cama box casal">Cama Box Casal</option>
+          <option value="guarda roupa">Guarda-Roupa</option>
+          <option value="poltrona">Poltrona</option>
+          <option value="estante">Estante</option>
+          <option value="rack para tv">Rack para TV</option>
+          <option value="cadeiras">Cadeiras</option>
+        </select>
+      </form>
+
+      <div class="grid" id="gift-grid" aria-live="polite">
+        <!-- Produtos serão renderizados aqui -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Rodapé -->
+  <footer>
+    <div class="container">
+      Com carinho, Gabriel & Brenda • © <span id="year"></span>
+    </div>
+  </footer>
+
+  <!-- Script para ano no rodapé -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const yearEl = document.getElementById('year');
+      if (yearEl) yearEl.textContent = new Date().getFullYear();
+    });
+  </script>
+
+  <!-- Script principal (mantenha o nome e o caminho corretos) -->
+  <script src="script.js"></script>
+
+</body>
+</html>
